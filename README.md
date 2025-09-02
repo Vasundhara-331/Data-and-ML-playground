@@ -15,5 +15,8 @@ Welcome to my Python Mini Projects repository! This collection demonstrates my j
 ## How to Use
 
 1. Clone this repository:
-```bash
 git clone https://github.com/<your-username>/<repo-name>.git
+
+2. Navigate to the project folder of your choice.
+
+3. Run the code in Jupyter Notebook or Google Collab(what I used for this project).
